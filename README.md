@@ -1,18 +1,18 @@
 # LoveSysdiag
 简单致盲火绒Sysdiag杀毒软件
 
-Webshell场景下，火绒拦截了我上传的 [RingQ.exe](https://github.com/T4y1oR/RingQ) 怎么办？
+- Webshell场景下，火绒拦截了我上传的 [RingQ.exe](https://github.com/T4y1oR/RingQ) 怎么办？
+- 戳瞎它
 
 
-
-**必须以管理员身份运行  :)** 
-
-~~Webshell下如果是低权限 可以尝试提权后运行~~
 
 ```
 1. Sysdiag HipsDaemon.exe PID = 12138
 2. LoveSysdiag.exe -pid 12138
 ```
+**必须以管理员身份运行  :)** 
+
+~~Webshell下如果是低权限 可以尝试提权后运行~~
 
 ![](images/help.gif)
 
